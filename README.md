@@ -13,3 +13,8 @@ Implementing modular design by Applying the Page Object Model design pattern (PO
 
 -Selenium WebDriver for GUI testing.
 
+# Attachments
+
+Video for the execution of the script
+
+https://drive.google.com/file/d/1sZ9cZMd3fO2QTLK2pZGMzN9bS_ukT38A/view?usp=sharing
